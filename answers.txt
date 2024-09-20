@@ -11,3 +11,7 @@ Answer: Data science can be used for healthcare to better track patient diseases
 Q3: What is the difference between merging and rebasing?
 
 Answer: merge presents all conflicts at once whereas rebasing presents them one at a time
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve basic machine learning skills along with my analysis and statistic skills
